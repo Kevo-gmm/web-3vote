@@ -74,4 +74,4 @@ As you can see in `package.json`, this does two things:
 
 On Windows, if you're seeing an error containing `EPERM` it may be related to spaces in your path.
 
-# blockvotetutorial2
+# web 3vote
